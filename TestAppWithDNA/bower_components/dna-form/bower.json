@@ -1,0 +1,21 @@
+{
+  "name": "dna-form",
+  "version": "0.0.0",
+  "authors": [
+    "Leanne <leanne.tite@justgiving.com>"
+  ],
+  "description": "JustGiving DNA form components",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dna-core": "git@github.com:JustGiving/GG.FrontEnd.DNA.core.git#0.x"
+  }
+}

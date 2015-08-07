@@ -1,0 +1,29 @@
+{
+  "name": "dna-core",
+  "version": "0.1.0",
+  "authors": [
+    "Leanne <leanne.tite@justgiving.com>"
+  ],
+  "description": "JustGiving DNA core components",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/JustGiving/GG.FrontEnd.DNA.core",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.0",
+    "commit": "abdd4910ee7629a94e401f55a9a0798afbf0ece0"
+  },
+  "_source": "git@github.com:JustGiving/GG.FrontEnd.DNA.core.git",
+  "_target": "~0.1.0",
+  "_originalSource": "git@github.com:JustGiving/GG.FrontEnd.DNA.core.git",
+  "_direct": true
+}

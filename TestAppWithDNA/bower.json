@@ -1,0 +1,16 @@
+{
+  "name": "testappwithdna",
+  "version": "0.1.0",
+  "homepage": "https://github.com/basemj/testappwithdna",
+  "authors": [
+    "BasemJ <basem.jawahri@justgiving.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

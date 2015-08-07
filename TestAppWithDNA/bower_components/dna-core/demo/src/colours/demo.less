@@ -1,0 +1,52 @@
+@import 'components/less/utils/utils';
+@import 'components/less/variables/variables';
+
+// Demo code
+h3 {
+	font-weight: normal;
+}
+.swatch-list {
+	margin: 0;
+	padding: 0;
+	font: 11px Helvetica;
+	list-style-type: none;
+
+	> li {
+		float: left;
+		text-align: center;
+		padding: 10px;
+	}
+}
+.swatch {
+	width: 60px;
+	height: 60px;
+	display: block;
+	margin: 0 auto;
+}
+
+// TODO: Automate with a mixin. Needs colours to be stored as a map is this possible in Less...?
+.cinnabar {
+	background-color: @cinnabar;
+}
+.persianRed {
+	background-color: @persianRed;
+}
+.fireEngineRed {
+	background-color: @fireEngineRed;
+}
+.lightningYellow {
+	background-color: @lightningYellow;
+}
+.pumpkin {
+	background-color: @pumpkin;
+}
+.internationalOrange {
+	background-color: @internationalOrange;
+}
+.hotCinnamon {
+	background-color: @hotCinnamon;
+}
+.cream {
+	background-color: @cream;
+}
+
