@@ -1,8 +1,14 @@
 {
   "name": "testappwithdna",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.0",
+    "gulp-browserify": "^0.5.1"
+  },
   "version": "1.0.0",
   "description": "Test application to run DNA on windows",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
